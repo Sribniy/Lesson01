@@ -3,7 +3,7 @@ let income;
 let addExpenses;
 let deposit;
 let mission;
-const period = 20;
+let period;
 
 alert('Привет, Богдан Билун');
 
